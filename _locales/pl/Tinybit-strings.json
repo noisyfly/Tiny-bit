@@ -1,0 +1,38 @@
+{
+
+  "Tinybit.Ultrasonic_Car|block": "Odległość od sensora ultradźwiekowego [cm]",
+  "Tinybit.RGB_Car_Program|block": "Tylne diody RGB (NeoPixel)",
+  "Tinybit.RGB_Car_Big|block": "Przednie światła RGB|Kolor %value",
+  "Tinybit.RGB_Car_Big2|block": "Przednie światła RGB|Czerwony %value1|Zielony %value2|Niebieski %value3",
+  "Tinybit.Music_Car|block": "Odtwarzaj muzykę|%index",
+  "Tinybit.Voice_Sensor|block": "Czujnik dźwieku",
+  "Tinybit.Line_Sensor|block": "巡線傳感器|位置 %direct|檢測到 %value",
+  "Tinybit.CarCtrl|block": "Sterowanie pojazdem|%index",
+  "Tinybit.CarCtrlSpeed|block": "Sterowanie pojazdem|%index|Prędkość %speed",
+  "Tinybit.CarCtrlSpeed2|block": "Sterowanie pojazdem|%index|Prędkośc silnika lewego %speed1|Prędkośc silnika prawego %speed2",
+  "Tinybit.enColor.OFF|block": "Zgaszone",
+  "Tinybit.enColor.Red|block": "Czerwone",
+  "Tinybit.enColor.Green|block": "Zielone",
+  "Tinybit.enColor.Blue|block": "Niebieskie",
+  "Tinybit.enColor.White|block": "Białe",
+  "Tinybit.enColor.Cyan|block": "Błekitny",
+  "Tinybit.enColor.Pinkish|block": "Różowy",
+  "Tinybit.enColor.Yellow|block": "Żółty",
+  
+  "Tinybit.enPos.LeftState|block": "Stan lewego",
+  "Tinybit.enPos.RightState|block": "Stan prawego",
+  "Tinybit.enLineState.White|block": "Biały",
+  "Tinybit.enLineState.Black|block": "Czarny",
+  "Tinybit.enTouchState.Get|block": "Dostał",
+  "Tinybit.enTouchState.NoGet|block": "Nie dostał",
+  "Tinybit.enAvoidState.OBSTACLE|block": "Przeszkoda",
+  "Tinybit.enAvoidState.NOOBSTACLE|block": "Brak przeszkody",
+  
+  "Tinybit.CarState.Car_Run|block": "Do przodu",
+  "Tinybit.CarState.Car_Back|block": "Do tyłu",
+  "Tinybit.CarState.Car_Left|block": "W lewo",
+  "Tinybit.CarState.Car_Right|block": "W prawo",
+  "Tinybit.CarState.Car_Stop|block": "Stop",
+  "Tinybit.CarState.Car_SpinLeft|block": "Obracaj się w lewo",
+  "Tinybit.CarState.Car_SpinRight|block": "Obracaj sie w prawo"
+}
