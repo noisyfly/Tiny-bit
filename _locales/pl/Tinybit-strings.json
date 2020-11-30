@@ -6,7 +6,7 @@
   "Tinybit.RGB_Car_Big2|block": "Przednie światła RGB|Czerwony %value1|Zielony %value2|Niebieski %value3",
   "Tinybit.Music_Car|block": "Odtwarzaj muzykę|%index",
   "Tinybit.Voice_Sensor|block": "Czujnik dźwieku",
-  "Tinybit.Line_Sensor|block": "巡線傳感器|位置 %direct|檢測到 %value",
+  "Tinybit.Line_Sensor|block": "Czujnik linii|który %direct|stan %value",
   "Tinybit.CarCtrl|block": "Sterowanie pojazdem|%index",
   "Tinybit.CarCtrlSpeed|block": "Sterowanie pojazdem|%index|Prędkość %speed",
   "Tinybit.CarCtrlSpeed2|block": "Sterowanie pojazdem|%index|Prędkośc silnika lewego %speed1|Prędkośc silnika prawego %speed2",
